@@ -40,7 +40,7 @@ TelecomX_Cliente_Churn/
 
 ### 1. Distribución de Churn
 
-![Distribución de Churn](imagenes/churn_distribucion.jpg)
+![Distribución de Churn](imagenes/Distribucion_churn.jpg)
 
 **Insight:** La mayoría de los clientes permanecen activos, pero hay una proporción considerable que cancela.
 
@@ -48,7 +48,7 @@ TelecomX_Cliente_Churn/
 
 ### 2. Relación entre `tenure` y `Churn`
 
-![Churn vs Tenure](imagenes/churn_vs_tenure.jpg)
+![Churn vs Tenure](imagenes/Tenure_Churn.jpg)
 
 **Insight:** Los clientes que llevan poco tiempo en la empresa (menos de 12 meses) tienen una tasa de churn significativamente mayor.
 
@@ -56,7 +56,7 @@ TelecomX_Cliente_Churn/
 
 ### 3. Relación entre `CargoMensual` y `Churn`
 
-![Churn vs CargoMensual](imagenes/churn_vs_cargomensual.jpg)
+![Churn vs CargoMensual](imagenes/CargoMensual_Churn.jpg)
 
 **Insight:** Clientes con cargos mensuales elevados tienen mayor propensión a cancelar.
 
