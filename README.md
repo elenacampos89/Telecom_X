@@ -1,4 +1,4 @@
-![Banner del proyecto](https://github.com/elenacampos89/Telecom_X/blob/main/banner.png)
+![Banner del proyecto](https://github.com/elenacampos89/Telecom_X/blob/main/banner1.png)
 
 # 📊 Telecom X - Análisis de Evasión de Clientes (Churn)
 
