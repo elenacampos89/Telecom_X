@@ -1,3 +1,5 @@
+![Banner del proyecto](https://github.com/elenacampos89/Telecom_X/blob/main/banner.png)
+
 # 📊 Telecom X - Análisis de Evasión de Clientes (Churn)
 
 Este proyecto tiene como objetivo identificar patrones de evasión de clientes en el servicio de telecomunicaciones Telecom X.  
