@@ -42,7 +42,7 @@ TelecomX_Cliente_Churn/
 
 ### 1. Distribución de Churn
 
-![Distribución de Churn](imagenes/Distribucion_churn.jpg)
+![Distribución de Churn](imagenes/Distribucion_Churn.jpg)
 
 **Insight:** La mayoría de los clientes permanecen activos, pero hay una proporción considerable que cancela.
 
